@@ -3,9 +3,9 @@
 
                                              me gustar cantar y jugar microfutbol
 
- <img src="https://media.tenor.com/tAYlPpIk-kIAAAAM/bugs-bunny-movie-playing-musc.gif" width="262.5" height="262.5" alt="bugs bunny holds a baton in front of a sheet of music that says charms" loading="lazy">
-<img src="https://media.tenor.com/6rMPNhvDNr8AAAAm/bubu-singing-bubu-sing.webp" width="262.5" height="304.2613636363636" alt="a cartoon panda bear is holding an acoustic guitar and smiling ." loading="lazy">
-                                                                                         
+ <img src="https://media.tenor.com/tAYlPpIk-kIAAAAM/bugs-bunny-movie-playing-musc.gif" width="262.5" height="262.5" alt="bugs bunny holds a baton in front of a sheet of music that says charms" loading="lazy"> <img src="https://media.tenor.com/6rMPNhvDNr8AAAAm/bubu-singing-bubu-sing.webp" width="262.5" height="304.2613636363636" alt="a cartoon panda bear is holding an acoustic guitar and smiling ." loading="lazy"> <img src="https://media.tenor.com/6tW7ImrwSYEAAAAm/cat-tuxedo.webp" width="262.5" height="262.5" alt="a black and white cat is playing a flute with music notes flying around it" loading="lazy">
+                                                         
+                                
                                         Toco la bateria,la guitarra el xilofono y la flauta  
                                             
 
